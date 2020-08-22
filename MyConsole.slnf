@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "MyConsoleApp.sln",
+    "projects": [
+      "MyConsoleApp.csproj"
+    ]
+  }
+}
